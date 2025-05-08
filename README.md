@@ -13,5 +13,4 @@ This repo will serve as a **learning tracker**. As I progress through building t
 
 ## Installation
 1. Clone this repo:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/GRMS-AI.git
+   git clone https://github.com/notvishwasrohilla/GRMS-AI.git
